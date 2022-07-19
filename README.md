@@ -2,7 +2,7 @@
 
 <p align="center">Aplicação simples para consulta de endereço consumindo API <a href="https://viacep.com.br/">Viacep</a></p>
 
-<div align="center">https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge&logo=visualstudiocode</div>
+<div align="center"><img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge&logo=visualstudiocode"></div>
 
 ## 💻 Sobre o projeto
 
